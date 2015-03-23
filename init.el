@@ -142,9 +142,7 @@
 ;; (color-theme-select 'color-theme-xp)
 ;; (color-theme-xp)
 
-(speedbar 1)
-(require 'semantic/sb)
-(tool-bar-mode 1)
+
 
 (setq idle-require-idle-delay 3)
 (setq idle-require-symbols '(init-writting
@@ -159,6 +157,15 @@
                              init-semantic))
 (idle-require-mode 1) ;; starts loading
 
+(semantic-mode)
+(require 'semantic/sb)
+(tool-bar-mode 1)
+(speedbar 1)
+(modify-frame-parameters speedbar-frame
+                           '((left   + 995)
+                             (top    + -4)
+                             (width  . 26)
+                             (height . 26)))
 
 
 ;;----------------------------------------------------------------------------
