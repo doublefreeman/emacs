@@ -157,15 +157,14 @@
                              init-semantic))
 (idle-require-mode 1) ;; starts loading
 
-(semantic-mode)
-(require 'semantic/sb)
 (tool-bar-mode 1)
-(speedbar 1)
-(modify-frame-parameters speedbar-frame
-                           '((left   + 995)
-                             (top    + -4)
-                             (width  . 26)
-                             (height . 26)))
+;;(speedbar 1)
+;;(modify-frame-parameters speedbar-frame
+;;                           '((left   + 995)
+;;                             (top    + -4)
+;;                             (width  . 26)
+;;                             (height . 26)))
+
 
 
 ;;----------------------------------------------------------------------------
