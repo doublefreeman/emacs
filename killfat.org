@@ -1,15 +1,16 @@
 * 饮食
 ** TODO 早餐Check                                                               :每日饮食:
-   SCHEDULED:<2015-03-27 Fri 22:00 ++1d>
+   SCHEDULED:<2015-03-28 Sat 22:00 ++1d>
+   - State "DONE"       from "TODO"       [2015-03-27 Fri 20:56]
    - State "DONE"       from "TODO"       [2015-03-26 Thu 20:53]
    - State "DONE"       from "TODO"       [2015-03-25 Wed 20:45]
    - State "DONE"       from "TODO"       [2015-03-25 Wed 20:45]
    :PROPERTIES:
-   :LAST_REPEAT: [2015-03-26 Thu 20:53]
+   :LAST_REPEAT: [2015-03-27 Fri 20:56]
    :END:
 #减半处理（半碗粥或一两生煎或两个肉包）
 
-** TODO 午饭Check                                                               :每日饮食:
+** STARTED 午饭Check                                                            :每日饮食:
    SCHEDULED:<2015-03-27 Fri 22:00 ++1d>
    - State "DONE"       from "TODO"       [2015-03-26 Thu 20:53]
    - State "DONE"       from "TODO"       [2015-03-25 Wed 20:46]
@@ -19,39 +20,43 @@
 #主食减半（餐馆的米饭剩余一半）
 
 ** TODO 晚饭Check                                                               :每日饮食:
-   SCHEDULED:<2015-03-27 Fri 22:00 ++1d>
+   SCHEDULED:<2015-03-28 Sat 22:00 ++1d>
+   - State "DONE"       from "TODO"       [2015-03-27 Fri 20:56]
    - State "DONE"       from "TODO"       [2015-03-26 Thu 20:54]
    - State "DONE"       from "TODO"       [2015-03-25 Wed 20:46]
    :PROPERTIES:
-   :LAST_REPEAT: [2015-03-26 Thu 20:54]
+   :LAST_REPEAT: [2015-03-27 Fri 20:56]
    :END:
 #蔬菜为主（一筷子肉三筷子菜）
 
 ** TODO 零食Check                                                               :每日饮食:
-   SCHEDULED:<2015-03-27 Fri 22:00 ++1d>
+   SCHEDULED:<2015-03-28 Sat 22:00 ++1d>
+   - State "DONE"       from "TODO"       [2015-03-27 Fri 20:56]
    - State "DONE"       from "TODO"       [2015-03-26 Thu 20:54]
    - State "DONE"       from "TODO"       [2015-03-25 Wed 21:03]
    :PROPERTIES:
-   :LAST_REPEAT: [2015-03-26 Thu 20:54]
+   :LAST_REPEAT: [2015-03-27 Fri 20:56]
    :END:
 #尽量不吃
 
 ** TODO 饮水Check                                                               :每日饮食:
-   SCHEDULED:<2015-03-27 Fri 22:00 ++1d>
+   SCHEDULED:<2015-03-28 Sat 22:00 ++1d>
+   - State "DONE"       from "TODO"       [2015-03-27 Fri 20:57]
    - State "DONE"       from "TODO"       [2015-03-26 Thu 20:54]
    - State "DONE"       from "TODO"       [2015-03-25 Wed 22:11]
    :PROPERTIES:
-   :LAST_REPEAT: [2015-03-26 Thu 20:54]
+   :LAST_REPEAT: [2015-03-27 Fri 20:57]
    :END:
 #不含糖份
 
 * 运动
 ** TODO 晚饭后散步                                                              :每日运动:
-   SCHEDULED:<2015-03-27 Fri 22:00 ++1d>
+   SCHEDULED:<2015-03-28 Sat 22:00 ++1d>
+   - State "DONE"       from "TODO"       [2015-03-27 Fri 20:57]
    - State "DONE"       from "TODO"       [2015-03-26 Thu 20:55]
    - State "DONE"       from "TODO"       [2015-03-25 Wed 22:11]
    :PROPERTIES:
-   :LAST_REPEAT: [2015-03-26 Thu 20:55]
+   :LAST_REPEAT: [2015-03-27 Fri 20:57]
    :END:
 
 ** TODO 周三有氧跳操                                                            :每周运动:
@@ -70,18 +75,19 @@ SCHEDULED:<2015-03-29 Sun 22:00 ++1w>
 SCHEDULED:<2015-03-29 Sun 22:00 ++1w>
 
 ** 每日特别运动
-*** TODO 早锻炼（鼓励）                                                         :特殊抵扣:
+*** STARTED 早锻炼（鼓励）                                                      :特殊抵扣:
     SCHEDULED:<2015-03-27 Fri 22:00 ++1d>
     - State "DONE"       from "TODO"       [2015-03-25 Wed 22:11]
     :PROPERTIES:
     :LAST_REPEAT: [2015-03-26 Thu 20:55]
     :END:
 *** TODO 惩罚锻炼                                                               :每日结算:
-    SCHEDULED:<2015-03-27 Fri 22:00 ++1d>
+    SCHEDULED:<2015-03-28 Sat 22:00 ++1d>
+    - State "DONE"       from "TODO"       [2015-03-27 Fri 21:00]
     - State "DONE"       from "TODO"       [2015-03-26 Thu 20:56]
     - State "DONE"       from "TODO"       [2015-03-25 Wed 22:12]
     :PROPERTIES:
-    :LAST_REPEAT: [2015-03-26 Thu 20:56]
+    :LAST_REPEAT: [2015-03-27 Fri 21:00]
     :END:
 #每日饮食项未达成一项8个2组俯卧撑
 #每日散步未达成一项8个4组俯卧撑
